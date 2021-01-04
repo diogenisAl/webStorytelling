@@ -12,7 +12,7 @@
 **Also**, you have to change all local server paths. e.g. "C:/..." **and** create the database.
 
 # My appreciation to
-* [stackoverflow.com](https://stackoverflow.com/)
+* [stackoverflow.com](https://stackoverflow.com)
 * [w3schools.com](https://www.w3schools.com/)
 * [developers.google.com/](https://developers.google.com/)
 * [google maps](https://github.com/googlemaps/)
