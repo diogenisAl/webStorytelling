@@ -4,7 +4,7 @@
 
 
 
-# Before starting
+# Before starting:
 You have to update the following files with your own keys, usernames, passwords, etc.:
 1. index.php
 2. edit_story_form.php
@@ -19,7 +19,7 @@ You have to update the following files with your own keys, usernames, passwords,
 
 
 
-# My appreciation to
+# My appreciation to:
 * [stackoverflow.com](https://stackoverflow.com)
 * [w3schools.com](https://www.w3schools.com/)
 * [developers.google.com](https://developers.google.com/)
