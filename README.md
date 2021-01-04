@@ -1,4 +1,4 @@
-# DigitalStorytelling
+# webStorytelling
 
 **Before starting**, you have to update the following files with your own keys, usernames, passwords, etc.:
 1. index.php
