@@ -18,7 +18,7 @@
 * [google maps](https://github.com/googlemaps/)
 * [github.com/callmenick](https://github.com/callmenick)
 * [github.com/therecluse26/](https://github.com/therecluse26/PHP-Login)
-* [Almende B.V. and Contributors](https://github.com/almende/vis) for the timeline
+* [github.com/almende/](https://github.com/almende/vis) for the timeline
 * the (more or less) anonymous users and developers in the internet.
 
 ...I hope I didn't forget anyone!
