@@ -22,7 +22,7 @@ You have to update the following files with your own keys, usernames, passwords,
 # My appreciation to
 * [stackoverflow.com](https://stackoverflow.com)
 * [w3schools.com](https://www.w3schools.com/)
-* [developers.google.com/](https://developers.google.com/)
+* [developers.google.com](https://developers.google.com/)
 * [google maps](https://github.com/googlemaps/)
 * [github.com/callmenick](https://github.com/callmenick)
 * [github.com/therecluse26](https://github.com/therecluse26/PHP-Login)
