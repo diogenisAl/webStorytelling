@@ -11,4 +11,13 @@
 
 **Also**, you have to change all local server paths. e.g. "C:/..." **and** create the database.
 
-The timeline source code came from [Almende B.V. and Contributors](https://github.com/almende/vis) under the [MIT license](https://opensource.org/licenses/MIT).
+# My appreciation to:
+* [stackoverflow.com](https://stackoverflow.com/)
+* [github.com/therecluse26/](https://github.com/therecluse26/PHP-Login)
+* [w3schools.com](https://www.w3schools.com/)
+* [developers.google.com/](https://developers.google.com/)
+* [google maps](https://github.com/googlemaps/)
+* [github.com/callmenick](https://github.com/callmenick)
+* [Almende B.V. and Contributors](https://github.com/almende/vis) for the timeline
+
+...I hope I didn't forget anyone!
