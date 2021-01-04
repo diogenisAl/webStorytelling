@@ -11,13 +11,14 @@
 
 **Also**, you have to change all local server paths. e.g. "C:/..." **and** create the database.
 
-# My appreciation to:
+# My appreciation to
 * [stackoverflow.com](https://stackoverflow.com/)
-* [github.com/therecluse26/](https://github.com/therecluse26/PHP-Login)
 * [w3schools.com](https://www.w3schools.com/)
 * [developers.google.com/](https://developers.google.com/)
 * [google maps](https://github.com/googlemaps/)
 * [github.com/callmenick](https://github.com/callmenick)
+* [github.com/therecluse26/](https://github.com/therecluse26/PHP-Login)
 * [Almende B.V. and Contributors](https://github.com/almende/vis) for the timeline
+* the (more or less) anonymous users and developers in the internet.
 
 ...I hope I didn't forget anyone!
