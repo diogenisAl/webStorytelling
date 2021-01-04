@@ -17,8 +17,8 @@
 * [developers.google.com/](https://developers.google.com/)
 * [google maps](https://github.com/googlemaps/)
 * [github.com/callmenick](https://github.com/callmenick)
-* [github.com/therecluse26/](https://github.com/therecluse26/PHP-Login)
-* [github.com/almende/](https://github.com/almende/vis)
+* [github.com/therecluse26](https://github.com/therecluse26/PHP-Login)
+* [github.com/almende](https://github.com/almende/vis)
 * the (more or less) anonymous users and developers in the internet.
 
 ...I hope I didn't forget anyone!
