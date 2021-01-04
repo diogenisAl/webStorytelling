@@ -4,7 +4,8 @@
 
 
 
-**Before starting**, you have to update the following files with your own keys, usernames, passwords, etc.:
+# Before starting
+You have to update the following files with your own keys, usernames, passwords, etc.:
 1. index.php
 2. edit_story_form.php
 3. insert_story_form.php
