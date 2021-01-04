@@ -14,7 +14,7 @@ You have to update the following files with your own keys, usernames, passwords,
 6. includes/db_config.php
 ...
 
-**Also**, you have to change all local server paths. e.g. "C:/..." **and** create the database.
+**Also**, you have to change all local server paths (e.g. "C:/...") **and** create the database.
 
 
 
