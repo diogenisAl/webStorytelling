@@ -1,0 +1,95 @@
+/* =============== sections =============== */
+
+section {
+  margin-bottom: 60px;
+  padding: 30px;
+  background-color: #f6f6f6;
+}
+
+section:last-child {
+  margin-bottom: 0;
+}
+
+
+/* =============== for the comment button =============== */
+button {
+  display: inline-block;
+  margin: 0 10px 0 0;
+  padding: 15px 45px;
+  font-size: 18px;
+  font-family: "Bitter",serif;
+  line-height: 1.8;
+  appearance: none;
+  box-shadow: none;
+  border-radius: 0;
+}
+
+button:focus {
+  outline: none
+}
+
+section.border button {
+  color: #6496c8;
+  background: rgba(0,0,0,0);
+  border: solid 5px #6496c8;
+}
+section.border button:hover,
+section.border button.hover {
+  border-color: #346392;
+  color: #346392;
+}
+section.border button:active,
+section.border button.active {
+  border-color: #27496d;
+  color: #27496d;
+}
+
+
+/* =============== for the message button =============== */
+input[type="submit"] {
+  display: inline-block;
+  margin: 0 10px 0 0;
+  padding: 15px 45px;
+  font-size: 18px;
+  font-family: "Bitter",serif;
+  line-height: 1.8;
+  appearance: none;
+  box-shadow: none;
+  border-radius: 0;
+}
+
+input[type="submit"]:focus {
+  outline: none
+}
+
+input[type="submit"].submit {
+  display: inline-block;
+  margin: 0 10px 0 0;
+  padding: 15px 45px;
+  font-size: 18px;
+  font-family: "Bitter",serif;
+  line-height: 1.8;
+  appearance: none;
+  box-shadow: none;
+  border-radius: 0;
+}
+
+input[type="submit"]:focus {
+  outline: none
+}
+
+section.border input[type="submit"] {
+  color: #6496c8;
+  background: rgba(0,0,0,0);
+  border: solid 5px #6496c8;
+}
+section.border input[type="submit"]:hover,
+section.border input[type="submit"].hover {
+  border-color: #346392;
+  color: #346392;
+}
+section.border input[type="submit"]:active,
+section.border input[type="submit"].active {
+  border-color: #27496d;
+  color: #27496d;
+}

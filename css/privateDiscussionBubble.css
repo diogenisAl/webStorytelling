@@ -1,0 +1,84 @@
+span
+            {
+                display: inline-block;
+                max-width: 400px;
+                background-color: white;
+                padding: 5px;
+                border-radius: 4px;
+                position: relative;
+                border-width: 1px;
+                border-style: solid;
+                border-color: grey;
+            }
+
+            left
+            {
+                float: left;
+            }
+
+            span.left:after
+            {
+                content: "";
+                display: inline-block;
+                position: absolute;
+                left: -8.5px;
+                top: 7px;
+                height: 0px;
+                width: 0px;
+                border-top: 8px solid transparent;
+                border-bottom: 8px solid transparent;
+                border-right: 8px solid white;
+            }
+
+            span.left:before
+            {
+                content: "";
+                display: inline-block;
+                position: absolute;
+                left: -9px;
+                top: 7px;
+                height: 0px;
+                width: 0px;
+                border-top: 8px solid transparent;
+                border-bottom: 8px solid transparent;
+                border-right: 8px solid black;
+            }
+
+            span.right:after
+            {
+                content: "";
+                display: inline-block;
+                position: absolute;
+                right: -8px;
+                top: 6px;
+                height: 0px;
+                width: 0px;
+                border-top: 8px solid transparent;
+                border-bottom: 8px solid transparent;
+                border-left: 8px solid #dbedfe;
+            }
+
+            span.right:before
+            {
+                content: "";
+                display: inline-block;
+                position: absolute;
+                right: -9px;
+                top: 6px;
+                height: 0px;
+                width: 0px;
+                border-top: 8px solid transparent;
+                border-bottom: 8px solid transparent;
+                border-left: 8px solid black;
+            }
+
+            span.right
+            {
+                float: right;
+                background-color: #dbedfe;
+            }
+
+            .clear
+            {
+                clear: both;
+            }

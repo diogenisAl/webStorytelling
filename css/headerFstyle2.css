@@ -1,0 +1,39 @@
+header {
+    width: 100%;
+    height: 94px;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    background-color: #6496c8;
+}
+header h1#logo {
+    display: inline-block;
+    height: 30px;
+    line-height: 30px;
+    float: left;
+    font-family: "Oswald", sans-serif;
+    font-size: 50px;
+    color: white;
+    font-weight: 400;
+}
+header nav {
+    display: inline-block;
+    float: right;
+}
+header nav a {
+    line-height: 100px;
+    margin-left: 20px;
+    color: #9fdbfc;
+    font-weight: 700;
+    font-size: 18px;
+}
+header nav a:hover {
+    color: white;
+}
+
+.including {
+  width: 95%;
+  margin: 0 auto;
+  padding: 0 30px; }
