@@ -22,6 +22,6 @@
 * [github.com/callmenick](https://github.com/callmenick)
 * [github.com/therecluse26](https://github.com/therecluse26/PHP-Login)
 * [github.com/almende](https://github.com/almende/vis)
-* the (more or less) anonymous users and developers in the internet.
+* the anonymous and named users and developers in the internet.
 
 ...I hope I didn't forget anyone!
