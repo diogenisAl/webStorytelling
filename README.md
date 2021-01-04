@@ -23,4 +23,5 @@
 * [github.com/therecluse26](https://github.com/therecluse26/PHP-Login)
 * [github.com/almende](https://github.com/almende/vis)
 * the anonymous and named users and developers in the internet. 
+
 **Without their help this project would not have been possible.**
